@@ -1,0 +1,25 @@
+{
+  "count": 2,
+  "results": [
+    {
+      "id": "5123456789",
+      "title": "<strong>Python</strong> Developer",
+      "description": "Werk aan Django API's voor onze klanten...",
+      "created": "2026-10-22T08:00:00Z",
+      "redirect_url": "https://www.adzuna.nl/details/5123456789",
+      "company": {"display_name": "Voorbeeld Software B.V."},
+      "location": {"display_name": "Enschede, Overijssel", "area": ["Nederland", "Overijssel", "Enschede"]},
+      "salary_min": 3800,
+      "salary_max": 4800
+    },
+    {
+      "id": "5123456790",
+      "title": "Full Stack Developer",
+      "description": "TypeScript, React and Node.js.",
+      "created": "2026-10-21T10:30:00Z",
+      "redirect_url": "https://www.adzuna.nl/details/5123456790",
+      "company": {"display_name": "Example BV"},
+      "location": {"display_name": "Nederland", "area": ["Nederland"]}
+    }
+  ]
+}
